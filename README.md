@@ -2,7 +2,7 @@
 
 Posts a table of the Top 20 from Space Hunt to a subreddit on a schedule.
 
-![](https://github.com/impshum/Space-Hunt-Top-20-Reddit-Poster-Bot/blob/master/ss.jpg?raw=true)
+![](https://github.com/impshum/Space-Hunt-Top-20-Reddit-Poster-Bot/blob/master/screenshot.jpg?raw=true)
 
 ### Instructions
 
