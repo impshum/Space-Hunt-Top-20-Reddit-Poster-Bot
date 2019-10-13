@@ -1,0 +1,6 @@
+BeautifulSoup4
+requests
+praw
+schedule
+demoji
+configparser
