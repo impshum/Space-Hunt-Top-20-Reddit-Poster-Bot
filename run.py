@@ -45,7 +45,7 @@ def main():
         password=reddit_pass,
         client_id=client_id,
         client_secret=client_secret,
-        user_agent='Space Hunt Weekly Top 20 Reddit Poster Bot (by u/impshum)'
+        user_agent='Space Hunt Top 20 Reddit Poster Bot (by u/impshum)'
     )
 
     if not demoji.last_downloaded_timestamp():
