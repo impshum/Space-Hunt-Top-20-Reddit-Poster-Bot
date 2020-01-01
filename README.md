@@ -15,3 +15,7 @@ Posts a table of the Top 20 from Space Hunt to a subreddit on a schedule.
 
 Change the schedule by editing line 55 of run.py.  
 Docs for schedule: https://pypi.org/project/schedule/
+
+---
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
